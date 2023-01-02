@@ -4,6 +4,10 @@
 
 # Angular de cero a experto
 
+Descargar esta hoja de atajos:
+[Guías de atajos - Angular ](https://devtalles.com/files/angular-cheat-sheet.pdf)
+
+
 1. [Node JS](https://nodejs.org/es/)
 
 2. [VSCode - Visual Studio Code](https://code.visualstudio.com/)
@@ -23,8 +27,6 @@ git config --global user.email "Tu correo"
 7. Table Plus: (opcional)
   * [Windows / Mac OSX](https://tableplus.com/)
   * [Linux](https://tableplus.com/linux)
-
-8. [Guías de atajos - Angular ](https://devtalles.com/files/angular-cheat-sheet.pdf)
 
 
 ## Extensiones de VSCode
