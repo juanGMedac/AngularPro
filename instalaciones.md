@@ -28,6 +28,15 @@ git config --global user.email "Tu correo"
   * [Windows / Mac OSX](https://tableplus.com/)
   * [Linux](https://tableplus.com/linux)
 
+## AngularCLI
+Documentación [oficial de Angular CLI](https://angular.io/cli)
+
+Ejecutar el siguiente comando como __administrador__
+```
+npm install -g @angular/cli
+```
+
+
 
 ## Extensiones de VSCode
 
