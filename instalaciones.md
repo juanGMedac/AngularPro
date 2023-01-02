@@ -27,6 +27,8 @@ git config --global user.email "Tu correo"
 7. Table Plus: (opcional)
   * [Windows / Mac OSX](https://tableplus.com/)
   * [Linux](https://tableplus.com/linux)
+  
+8. [Mongo Compass](https://www.mongodb.com/try/download/compass)
 
 ## AngularCLI
 Documentación [oficial de Angular CLI](https://angular.io/cli)
