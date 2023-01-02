@@ -60,6 +60,7 @@ npm install -g @angular/cli
 
 * [Better Comments](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments)
 
+* [Terminal](https://marketplace.visualstudio.com/items?itemName=formulahendry.terminal)
 
 ## Extensiones de Chrome
 
