@@ -68,6 +68,8 @@ npm install -g @angular/cli
 
 ## Extensiones de Chrome
 
+* [Angular DevTools](https://chrome.google.com/webstore/detail/angular-devtools/ienfalfjdbdpebioblfackkekamfmbnh/related)
+
 * [Json Viewer Awesome](https://chrome.google.com/webstore/detail/json-viewer-pro/eifflpmocdbdmepbjaopkkhbfmdgijcc)
 
 
