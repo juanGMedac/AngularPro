@@ -44,6 +44,8 @@ npm install -g @angular/cli
 
 * [Angular Language Service](https://marketplace.visualstudio.com/items?itemName=Angular.ng-template)
 
+* [Angular Snippets](https://marketplace.visualstudio.com/items?itemName=johnpapa.Angular2)
+
 * [Auto Close Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag)
 
 * [Activitus Bar](https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.activitusbar)
