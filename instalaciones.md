@@ -5,7 +5,7 @@
 # Angular de cero a experto
 
 Descargar esta hoja de atajos:
-[Guías de atajos - Angular ](https://devtalles.com/files/angular-cheat-sheet.pdf)
+[Guías de atajos - Angular ](https://devtalles.com/files/angular-cheat-sheet.pdf?signals)
 
 
 1. [Node JS](https://nodejs.org/es/)
