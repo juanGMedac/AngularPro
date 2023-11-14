@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://angular.dev" target="blank"><img src="https://devtalles.com/images/angular.png" width="200" alt="Angular Logo" /></a>
+  <a href="https://angular.dev" target="blank"><img src="https://devtalles.com/images/angular.png?new" width="200" alt="Angular Logo" /></a>
 </p>
 
 # Angular de cero a experto
